@@ -6,8 +6,6 @@ def square_array(numbers)
    return squared_numbers
 end
 
-numbers = [1,2,3]
-
 # def square_array(numbers)
 # numbers = []
 # new_numbers = #{numbers.collect {|i| i**2 }}
