@@ -5,7 +5,6 @@ def square_array(numbers)
   end
    new_numbers
 end
-end
 
 square_array([1,2,3])
 
